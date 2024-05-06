@@ -1,8 +1,8 @@
-# Análise e Desenvolvimento de Sistemas (UFCA)
+# Repositório de Atividades do curso de Análise e Desenvolvimento de Sistemas (UFCA)
 
 ## Objetivo
 
-Este repositório centralizado serve como ponto de acesso unificado para todos os materiais e atividades relacionados ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. A estrutura organizada visa facilitar a navegação e o acesso rápido às informações relevantes.
+Este repositório reúne minhas atividades e aprendizados no curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Encontre aqui códigos, relatórios, documentações e mais, organizados por semestre e disciplina.
 
 ## Estrutura do Repositório
 
@@ -36,3 +36,8 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 * Projeto de Banco de Dados ()
 * Rede e Sistemas Distribuídos ()
 * Projeto Integrado II ()
+<hr>
+
+## Licença
+
+Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
