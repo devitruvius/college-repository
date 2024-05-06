@@ -19,23 +19,25 @@ Este repositório reúne minhas atividades e aprendizados no curso de Análise e
 Para facilitar a organização e a visualização dos materiais, este repositório principal é dividido em seções para cada semestre. Cada seção contém links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
  
 ### Semestre 1
-* Fundamentos de Algoritmos (ADS-fundamentos-de-algoritmos: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
-* Lógica Computacional (ADS-logica-computacional: https://github.com/devitruvius/ADS-logica-computacional)
-* Introdução à EaD ()
-* Modelagem de Banco de Dados ()
-* Análise e Modelagem de Sistemas ()
-* Ética e Legislação em Computação ()
-* Projeto Integrado I ()
+* Fundamentos de Algoritmos
+  - [ADS-fundamentos-de-algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
+* Lógica Computacional
+  - [ADS-logica-computacional](https://github.com/devitruvius/ADS-logica-computacional)
+* Introdução à EaD
+* Modelagem de Banco de Dados
+* Análise e Modelagem de Sistemas
+* Ética e Legislação em Computação
+* Projeto Integrado I
 <hr>
 
 ### Semestre 2
-* Desenvolvimento em Nuvem ()
-* Estrutura de Dados ()
-* Interface Humano-Computador ()
-* Programação Orientada a Objetos ()
-* Projeto de Banco de Dados ()
-* Rede e Sistemas Distribuídos ()
-* Projeto Integrado II ()
+* Desenvolvimento em Nuvem
+* Estrutura de Dados
+* Interface Humano-Computador
+* Programação Orientada a Objetos
+* Projeto de Banco de Dados
+* Rede e Sistemas Distribuídos
+* Projeto Integrado II
 <hr>
 
 ## Licença
