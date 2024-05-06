@@ -7,7 +7,7 @@ Este repositório reúne minhas atividades e aprendizados no curso de Análise e
 ## Estrutura do Repositório
 
 * **Disciplinas:**
-  * Cada disciplina possui um repositório individual com a sigla "[ADS]".
+  * Cada disciplina possui um repositório individual com a sigla "ADS".
   * Dentro de cada repositório de disciplina, você encontrará sub-repositórios ou subpastas organizados por:
     * **Atividades:**
       * Cada atividade possui um sub-repositório ou subpasta individual.
