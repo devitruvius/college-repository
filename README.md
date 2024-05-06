@@ -1,4 +1,4 @@
-# Repositório de Atividades do curso de Análise e Desenvolvimento de Sistemas (UFCA)
+# Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)
 
 ## Objetivo
 
