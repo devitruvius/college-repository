@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este repositório reúne atividades e aprendizados desenvolvidos no curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Este repositório reúne códigos, relatórios, documentações e mais, organizados de forma intuitiva por semestre e disciplina.
+Este repositório é um compilado de atividades e aprendizados desenvolvidos no curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Ele reúne códigos, relatórios, documentações e mais, organizados de forma intuitiva por semestre e disciplina.
 
 ## Estrutura do Repositório
 
