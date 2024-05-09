@@ -21,7 +21,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 ### Semestre 1
 * Fundamentos de Algoritmos
   - [ADS-fundamentals-algoritms](https://github.com/devitruvius/ADS-fundamentals-algoritms)
-* Lógica Computacional
+* Introdução à Lógica Computacional
   - [ADS-computational-logic](https://github.com/devitruvius/ADS-computational-logic)
 * Introdução à EaD
   - [ADS-distance-education](https://github.com/devitruvius/ADS-distance-education)
