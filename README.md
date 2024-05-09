@@ -44,7 +44,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 * Programação Orientada a Objetos
   - [ADS-object-oriented-programming](https://github.com/devitruvius/ADS-object-oriented-programming)
 * Projeto de Banco de Dados
-  - [ADS-object-oriented-programming](https://github.com/devitruvius/ADS-object-oriented-programming)
+  - [ADS-database-project](https://github.com/devitruvius/ADS-object-oriented-programming)
 * Rede e Sistemas Distribuídos
   - [ADS-distributed-networks-systems](https://github.com/devitruvius/ADS-distributed-networks-systems)
 <hr>
