@@ -20,25 +20,40 @@ Para facilitar a organização e a visualização dos materiais, este repositór
  
 ### Semestre 1
 * Fundamentos de Algoritmos
-  - [ADS-fundamentos-de-algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
+  - [ADS-fundamentals-algoritms](https://github.com/devitruvius/ADS-fundamentals-algoritms)
 * Lógica Computacional
-  - [ADS-logica-computacional](https://github.com/devitruvius/ADS-logica-computacional)
+  - [ADS-computational-logic](https://github.com/devitruvius/ADS-computational-logic)
 * Introdução à EaD
+  - [ADS-distance-education](https://github.com/devitruvius/ADS-distance-education)
 * Modelagem de Banco de Dados
+  - [ADS-database-modeling](https://github.com/devitruvius/ADS-database-modeling)
 * Análise e Modelagem de Sistemas
+  - [ADS-system-analysis-modeling](https://github.com/devitruvius/ADS-system-analysis-modeling)
 * Ética e Legislação em Computação
-* Projeto Integrado I
+  - [ADS-ethics-legislation-computing](https://github.com/devitruvius/ADS-ethics-legislation-computing)
+
 <hr>
 
 ### Semestre 2
 * Desenvolvimento em Nuvem
+  - [ADS-cloud-development](https://github.com/devitruvius/ADS-cloud-development)
 * Estrutura de Dados
+  - [ADS-data-structure](https://github.com/devitruvius/ADS-data-structure)
 * Interface Humano-Computador
+  - [ADS-human-computer-interface](https://github.com/devitruvius/ADS-human-computer-interface)
 * Programação Orientada a Objetos
+  - [ADS-object-oriented-programming](https://github.com/devitruvius/ADS-object-oriented-programming)
 * Projeto de Banco de Dados
+  - [ADS-object-oriented-programming](https://github.com/devitruvius/ADS-object-oriented-programming)
 * Rede e Sistemas Distribuídos
-* Projeto Integrado II
+  - [ADS-distributed-networks-systems](https://github.com/devitruvius/ADS-distributed-networks-systems)
 <hr>
+
+## Projeto Integrado
+O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, os alunos integram os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
+
+* Projeto Integrado
+  - [ADS-integrated-project](https://github.com/devitruvius/ADS-integrated-project)
 
 ## Licença
 
