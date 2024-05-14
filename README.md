@@ -2,18 +2,52 @@
 
 ## Objetivo
 
-Este repositório é um compilado de atividades e aprendizados desenvolvidos no curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Ele reúne códigos, relatórios, documentações e mais, organizados de forma intuitiva por semestre e disciplina.
+O objetivo deste repositório é servir como um portfólio centralizado e organizado para documentar minhas atividades, aprendizados e desenvolvimento profissional durante o curso de Análise e Desenvolvimento de Sistemas (ADS) na UFCA.
 
 ## Estrutura do Repositório
 
-* **Disciplinas:**
-  * Cada disciplina possui um repositório individual.
-  * Dentro de cada repositório de disciplina, você encontrará sub-repositórios organizados por:
-* **Atividades:**
-  * Cada atividade possui um sub-repositório individual.
-  * Dentro de cada sub-repositório de atividade, você encontrará os arquivos relevantes, como código, relatórios e documentações.
-* **READMEs:**
-  * Cada repositório de disciplina e atividade possui um arquivo README com informações relevantes.
+### Disciplinas
+  * Cada disciplina terá um repositório central com o nome [Nome da Disciplina]
+  * O repositório central da disciplina conterá:
+    * README.md: Apresentando uma visão geral da disciplina, incluindo objetivos, possível ementário, materiais complementares e links para os sub-repositórios das atividades.
+    * Sub-repositórios: Cada atividade terá um repositório individual com o nome [Nome da Atividade].
+
+### Atividades
+  * Cada atividade terá um repositório individual dentro do repositório central da disciplina.
+  * O repositório da atividade conterá:
+    * README.md: Descrevendo os objetivos da atividade, e as atividades propriamente desenvolvidas.
+    * Arquivos como:
+        * Códigos: Arquivos de código relacionados à atividade, organizados em subpastas se necessário.
+        * Relatórios: Relatórios e documentações gerados durante a atividade.
+        * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
+          
+### READMEs
+  * Cada repositório de disciplina e atividade possuirá um arquivo README como este com informações relevantes.
+
+### 🌐 Exemplo
+```
+📁repositorio-central - (https://github.com/devitruvius/college-repository)
+📄README.md
+│
+├─📁ADS-projeto-integrado - (https://github.com/devitruvius/ADS-integrated-project)
+│  📄README.md
+│  │
+│  ├─📁projeto-integrado-I
+│  │    📄README.md
+│  │    └─ ... (arquivos do projeto)
+│  │
+│  └─📁projeto-integrado-II - (https://github.com/devitruvius/PI-II)
+│       📄README.md
+│       └─ ... (arquivos do projeto)
+│
+└─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+│     📄README.md
+│     └─📁FA-python-conditional-statement
+│        📄README.md
+│        └─ ... (subpastas e arquivos da atividade)
+│
+... (outras disciplinas)
+```
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, este repositório principal é dividido em seções para cada semestre. Cada seção contém links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
@@ -49,7 +83,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ## Projeto Integrado
-O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, os alunos integram os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
+O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, integramos os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
 
 * [Projeto Integrado](https://github.com/devitruvius/ADS-integrated-project)
 
