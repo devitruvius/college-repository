@@ -40,7 +40,7 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
 │       📄README.md
 │       └─ ... (arquivos do projeto)
 │
-└─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+├─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
 │     📄README.md
 │     │
 │     ├─📁FA-python-conditional-statement
