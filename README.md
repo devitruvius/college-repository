@@ -33,12 +33,12 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
 │  📄README.md
 │  │
 │  ├─📁projeto-integrado-I
-│  │    📄README.md
-│  │    └─ ... (arquivos do projeto)
+│  │  📄README.md
+│  │  └─ ... (arquivos do projeto)
 │  │
 │  └─📁projeto-integrado-II - (https://github.com/devitruvius/PI-II)
-│       📄README.md
-│       └─ ... (arquivos do projeto)
+│     📄README.md
+│     └─ ... (arquivos do projeto)
 │
 ├─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
 │  📄README.md
