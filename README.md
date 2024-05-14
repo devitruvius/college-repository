@@ -11,6 +11,7 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
   * O repositório central da disciplina contém:
     * README.md: Apresenta uma visão geral da disciplina, incluindo objetivos, ementário, materiais complementares e links para os sub-repositórios das atividades.
     * Sub-repositórios: Cada atividade terá um repositório individual com o nome [Nome da Atividade].
+<hr>
 
 ### Atividades
   * Cada atividade possui um repositório individual dentro do repositório central da disciplina.
@@ -20,7 +21,8 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
         * Códigos: Arquivos de código relacionados à atividade, organizados em arquivos ou no próprio README, se necessário.
         * Relatórios: Relatórios e documentações gerados durante a atividade.
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
-          
+<hr>          
+
 ### README.md
   * Cada repositório de disciplina e atividade possui um arquivo README.md como este com informações relevantes.
 
