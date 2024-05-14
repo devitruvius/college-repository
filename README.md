@@ -27,6 +27,7 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
   * Cada repositório de disciplina e atividade possui um arquivo README.md como este com informações relevantes.
 
 ### 🌐 Exemplo
+
 ```
 📁repositorio-central - (https://github.com/devitruvius/college-repository)
 📄README.md
