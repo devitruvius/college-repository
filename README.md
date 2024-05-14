@@ -50,6 +50,7 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
 │  └─📁FA-python-loop-statement
 │     📄README.md
 │     └─ ... (subpastas e arquivos da atividade)
+│
 ... (outras disciplinas)
 ```
 
