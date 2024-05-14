@@ -41,15 +41,15 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
 │       └─ ... (arquivos do projeto)
 │
 ├─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+│  📄README.md
+│  │
+│  ├─📁FA-python-conditional-statement
+│  │  📄README.md
+│  │  └─ ... (subpastas e arquivos da atividade)
+│  │
+│  └─📁FA-python-loop-statement
 │     📄README.md
-│     │
-│     ├─📁FA-python-conditional-statement
-│     │  📄README.md
-│     │  └─ ... (subpastas e arquivos da atividade)
-│     │
-│     └─📁FA-python-loop-statement
-│        📄README.md
-│        └─ ... (subpastas e arquivos da atividade)
+│     └─ ... (subpastas e arquivos da atividade)
 ... (outras disciplinas)
 ```
 
