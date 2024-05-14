@@ -7,22 +7,22 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
 ## Estrutura do Repositório
 
 ### Disciplinas
-  * Cada disciplina terá um repositório central com o nome [Nome da Disciplina]
-  * O repositório central da disciplina conterá:
-    * README.md: Apresentando uma visão geral da disciplina, incluindo objetivos, possível ementário, materiais complementares e links para os sub-repositórios das atividades.
+  * Cada disciplina possui um repositório central com o nome [Nome da Disciplina]
+  * O repositório central da disciplina contém:
+    * README.md: Apresenta uma visão geral da disciplina, incluindo objetivos, ementário, materiais complementares e links para os sub-repositórios das atividades.
     * Sub-repositórios: Cada atividade terá um repositório individual com o nome [Nome da Atividade].
 
 ### Atividades
-  * Cada atividade terá um repositório individual dentro do repositório central da disciplina.
-  * O repositório da atividade conterá:
-    * README.md: Descrevendo os objetivos da atividade, e as atividades propriamente desenvolvidas.
+  * Cada atividade possui um repositório individual dentro do repositório central da disciplina.
+  * O repositório da atividade contém:
+    * README.md: Descreve os objetivos da atividade, e as atividades propriamente desenvolvidas.
     * Arquivos como:
-        * Códigos: Arquivos de código relacionados à atividade, organizados em subpastas se necessário.
+        * Códigos: Arquivos de código relacionados à atividade, organizados em arquivos ou no próprio README, se necessário.
         * Relatórios: Relatórios e documentações gerados durante a atividade.
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
           
-### READMEs
-  * Cada repositório de disciplina e atividade possuirá um arquivo README como este com informações relevantes.
+### README.md
+  * Cada repositório de disciplina e atividade possui um arquivo README.md como este com informações relevantes.
 
 ### 🌐 Exemplo
 ```
