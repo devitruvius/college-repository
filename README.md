@@ -78,7 +78,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 ### Semestre 2
 * [Desenvolvimento em Nuvem](https://github.com/seu-user/seu-repositorio)
   
-* [Estrutura de Dados](https://github.com/seu-user/seu-repositorio)
+* [Estrutura de Dados](https://github.com/devitruvius/ADS-data-structures)
   
 * [Interface Humano-Computador](https://github.com/seu-user/seu-repositorio)
   
