@@ -23,10 +23,6 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
 <hr>          
 
-### README.md
-  * Cada repositório de disciplina e atividade possui um arquivo README.md como este com informações relevantes.
-<hr> 
-
 ### 🌐 Esquema dos Diretórios
 
 ```
