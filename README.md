@@ -83,7 +83,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Projeto de Banco de Dados](https://github.com/seu-user/seu-repositorio)
   
-* [Rede e Sistemas Distribuídos](https://github.com/seu-user/seu-repositorio)
+* [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
   
 <hr>
 
