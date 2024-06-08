@@ -81,7 +81,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Programação Orientada a Objetos](https://github.com/seu-user/seu-repositorio)
   
-* [Projeto de Banco de Dados](https://github.com/seu-user/seu-repositorio)
+* [Projeto de Banco de Dados](https://github.com/devitruvius/ADS-database-project)
   
 * [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
   
