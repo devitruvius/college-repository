@@ -62,24 +62,24 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Introdução à Lógica Computacional](https://github.com/devitruvius/ADS-computational-logic)
   
-* [Introdução à EaD](https://github.com/seu-user/seu-repositorio)
+* Introdução à EaD
   
-* [Modelagem de Banco de Dados](https://github.com/seu-user/seu-repositorio)
+* Modelagem de Banco de Dados
   
-* [Análise e Modelagem de Sistemas](https://github.com/seu-user/seu-repositorio)
+* Análise e Modelagem de Sistemas
   
-* [Ética e Legislação em Computação](https://github.com/seu-user/seu-repositorio)
+* Ética e Legislação em Computação
 
 <hr>
 
 ### Semestre 2
-* [Desenvolvimento em Nuvem](https://github.com/seu-user/seu-repositorio)
+* Desenvolvimento em Nuvem
   
 * [Estrutura de Dados](https://github.com/devitruvius/ADS-data-structures)
   
-* [Interface Humano-Computador](https://github.com/seu-user/seu-repositorio)
+* Interface Humano-Computador
   
-* [Programação Orientada a Objetos](https://github.com/seu-user/seu-repositorio)
+* Programação Orientada a Objetos
   
 * [Projeto de Banco de Dados](https://github.com/devitruvius/ADS-database-project)
   
