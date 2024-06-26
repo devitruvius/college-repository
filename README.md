@@ -66,7 +66,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * Modelagem de Banco de Dados
   
-* Análise e Modelagem de Sistemas
+* [Análise e Modelagem de Sistemas](https://github.com/devitruvius/ADS-system-analysis-modeling)
   
 * Ética e Legislação em Computação
 
