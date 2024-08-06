@@ -21,38 +21,6 @@ O objetivo deste repositório é servir como um portfólio centralizado e organi
         * Códigos: Arquivos de código relacionados à atividade, organizados em arquivos ou no próprio README, se necessário.
         * Relatórios: Relatórios e documentações gerados durante a atividade.
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
-<hr>          
-
-### 🌐 Esquema dos Diretórios
-
-```
-📁repositorio-central - (https://github.com/devitruvius/college-repository)
-📄README.md
-│
-├─📁ADS-projeto-integrado - (https://github.com/devitruvius/ADS-integrated-project)
-│  📄README.md
-│  │
-│  ├─📁projeto-integrado-I
-│  │  📄README.md
-│  │  └─ ... (arquivos do projeto)
-│  │
-│  └─📁projeto-integrado-II - (https://github.com/devitruvius/PI-II)
-│     📄README.md
-│     └─ ... (arquivos do projeto)
-│
-├─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
-│  📄README.md
-│  │
-│  ├─📁FA-python-conditional-statement
-│  │  📄README.md
-│  │  └─ ... (subpastas e arquivos da atividade)
-│  │
-│  └─📁FA-python-loop-statement
-│     📄README.md
-│     └─ ... (subpastas e arquivos da atividade)
-│
-... (outras disciplinas)
-```
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, este repositório principal é dividido em seções para cada semestre. Cada seção contém links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
@@ -85,12 +53,45 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
   
-<hr>
 
 ## Projeto Integrado
 O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, integramos os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
 
 * [Projeto Integrado](https://github.com/devitruvius/ADS-integrated-project)
+
+<hr>
+
+### 🌐 Esquema dos Diretórios
+
+```
+📁repositorio-central - (https://github.com/devitruvius/college-repository)
+📄README.md
+│
+├─📁ADS-projeto-integrado - (https://github.com/devitruvius/ADS-integrated-project)
+│  📄README.md
+│  │
+│  ├─📁projeto-integrado-I
+│  │  📄README.md
+│  │  └─ ... (arquivos do projeto)
+│  │
+│  └─📁projeto-integrado-II - (https://github.com/devitruvius/PI-II)
+│     📄README.md
+│     └─ ... (arquivos do projeto)
+│
+├─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+│  📄README.md
+│  │
+│  ├─📁FA-python-conditional-statement
+│  │  📄README.md
+│  │  └─ ... (subpastas e arquivos da atividade)
+│  │
+│  └─📁FA-python-loop-statement
+│     📄README.md
+│     └─ ... (subpastas e arquivos da atividade)
+│
+... (outras disciplinas)
+```
+
 
 ## Licença
 
