@@ -51,7 +51,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Projeto de Banco de Dados](https://github.com/devitruvius/ADS-database-project)
   
-* [Rede e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
+* [Redes e Sistemas Distribuídos](https://github.com/devitruvius/ADS-distributed-networks-systems)
   
 
 ## Projeto Integrado
