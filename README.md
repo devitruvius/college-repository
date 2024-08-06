@@ -45,7 +45,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   
 * [Estrutura de Dados](https://github.com/devitruvius/ADS-data-structures)
   
-* Interface Humano-Computador
+* [Interface Humano-Computador](https://github.com/devitruvius/ADS-human-computer-interface)
   
 * Programação Orientada a Objetos
   
